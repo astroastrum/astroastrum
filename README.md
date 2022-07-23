@@ -1,14 +1,11 @@
 astroastrum/README.md
 
-![](https://raw.githubusercontent.com/astroastrum/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/astroastrum/github-stats/master/generated/overview.svg#gh-light-mode-only)
+```
+![JungAh's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroastrum&show_icons=true&theme=cobalt)
 
-![](https://raw.githubusercontent.com/astroastrum/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/astroastrum/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astroastrum&layout=compact&theme=cobalt)
 
-
-
-
+```
 
 ![]()
 
