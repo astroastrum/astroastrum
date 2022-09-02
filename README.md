@@ -6,7 +6,7 @@ I am currently into Full-stack development and enjoy contributing to open source
 
 
 
-<div align="center"><h1>FullStack</h1></div>
+<div align="center"><h1>FullStack</h1></div> ![JungAh's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroastrum&show_icons=true&theme=cobalt)
 
 <div align=center>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white"> 
@@ -19,8 +19,6 @@ I am currently into Full-stack development and enjoy contributing to open source
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-
-![JungAh's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroastrum&show_icons=true&theme=cobalt)
 
 <div>
 
