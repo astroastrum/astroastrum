@@ -6,13 +6,14 @@ I am currently into Full-stack development and enjoy contributing to open source
 
 
 
+<div align="center">
 
-
+<img src="https://img.shields.io/badge/PYTHON-#3776AB?style=flat-square&logo=PYTHON&logoColor=blue"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=pink"/>
+<br/>
 ![JungAh's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroastrum&show_icons=true&theme=cobalt)
 
-
-
-
+<div>
 
 
 
